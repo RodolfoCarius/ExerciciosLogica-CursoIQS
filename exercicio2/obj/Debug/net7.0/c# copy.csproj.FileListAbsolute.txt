@@ -1,0 +1,5 @@
+C:\Users\Windows 10\Desktop\c#\exercicio2\obj\Debug\net7.0\c# copy.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\c#\exercicio2\obj\Debug\net7.0\c# copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\c#\exercicio2\obj\Debug\net7.0\c# copy.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\c#\exercicio2\obj\Debug\net7.0\c# copy.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\c#\exercicio2\obj\Debug\net7.0\c# copy.csproj.CoreCompileInputs.cache
