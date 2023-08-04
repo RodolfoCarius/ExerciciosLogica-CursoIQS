@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Windows 10\\Desktop\\c#\\exercicio1\\c#.csproj": {}
+    "C:\\Users\\Windows 10\\Desktop\\c#\\exercicio6\\exercicio6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Windows 10\\Desktop\\c#\\exercicio1\\c#.csproj": {
+    "C:\\Users\\Windows 10\\Desktop\\c#\\exercicio6\\exercicio6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Windows 10\\Desktop\\c#\\exercicio1\\c#.csproj",
-        "projectName": "c#",
-        "projectPath": "c:\\Users\\Windows 10\\Desktop\\c#\\exercicio1\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\c#\\exercicio6\\exercicio6.csproj",
+        "projectName": "exercicio6",
+        "projectPath": "C:\\Users\\Windows 10\\Desktop\\c#\\exercicio6\\exercicio6.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Windows 10\\Desktop\\c#\\exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Desktop\\c#\\exercicio6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
